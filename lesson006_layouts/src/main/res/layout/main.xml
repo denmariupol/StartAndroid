@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="352dp"
+        android:layout_height="match_parent">
+
+        <Button
+            android:text="Button"
+            android:layout_width="262dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/button6" />
+
+        <Button
+            android:text="Button"
+            android:layout_width="199dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/button5" />
+
+        <Button
+            android:text="Button"
+            android:layout_width="111dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/button4" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:text="Button"
+            android:layout_height="wrap_content"
+            android:id="@+id/button"
+            android:layout_width="wrap_content" />
+
+        <Button
+            android:text="Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/button2" />
+
+        <Button
+            android:text="Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/button3" />
+
+    </LinearLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <Button
+                android:text="Button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/button7" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <Button
+                android:text="Button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/button9" />
+
+            <EditText
+                android:layout_height="wrap_content"
+                android:inputType="textPersonName"
+                android:text="Name"
+                android:ems="10"
+                android:id="@+id/editText2"
+                android:layout_width="120dp" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <Button
+                android:text="Button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/button14" />
+
+            <Space
+                android:layout_width="120dp"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:text="Button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/button8" />
+        </TableRow>
+
+    </TableLayout>
+
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Type here:">
+        </TextView>
+        <EditText
+            android:id="@+id/entry"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/label"
+            android:background="@android:drawable/editbox_background">
+        </EditText>
+        <Button
+            android:id="@+id/ok"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/entry"
+            android:layout_marginLeft="10dip"
+            android:text="OK">
+        </Button>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/ok"
+            android:layout_toLeftOf="@+id/ok"
+            android:text="Cancel">
+        </Button>
+
+    </RelativeLayout>
+
+</LinearLayout>
+    <!--
+    android:layout_width="match_parent"  вся доступная ему ширина
+    android:layout_height="wrap_content"   высота по содержимому;
+    android:layout_below="@+id/label"    расположен ниже TextView (ссылка по ID)
+    android:layout_alignParentRight="true" - выравнен по правому краю родителя
+    android:layout_marginLeft="10dip" – имеет отступ слева (чтобы Button_Cancel был не впритык)
+    android:layout_toLeftOf="@+id/ok" - расположен слева от Button_OK
+    android:layout_alignTop="@+id/ok" - выравнен по верхнему краю Button_OK
+    -->

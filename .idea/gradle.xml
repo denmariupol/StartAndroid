@@ -11,6 +11,12 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/lesson003" />
+            <option value="$PROJECT_DIR$/lesson004" />
+            <option value="$PROJECT_DIR$/lesson005" />
+            <option value="$PROJECT_DIR$/lesson006_layouts" />
+            <option value="$PROJECT_DIR$/lesson007_layout_settings_for_view_elements" />
+            <option value="$PROJECT_DIR$/lesson008_view_code" />
+            <option value="$PROJECT_DIR$/lesson008_working_with_code" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

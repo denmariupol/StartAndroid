@@ -5,6 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/StartAndroid.iml" filepath="$PROJECT_DIR$/StartAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson003/lesson003.iml" filepath="$PROJECT_DIR$/lesson003/lesson003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson004/lesson004.iml" filepath="$PROJECT_DIR$/lesson004/lesson004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson005/lesson005.iml" filepath="$PROJECT_DIR$/lesson005/lesson005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson006_layouts/lesson006_layouts.iml" filepath="$PROJECT_DIR$/lesson006_layouts/lesson006_layouts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson007_layout_settings_for_view_elements/lesson007_layout_settings_for_view_elements.iml" filepath="$PROJECT_DIR$/lesson007_layout_settings_for_view_elements/lesson007_layout_settings_for_view_elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson008_view_code/lesson008_view_code.iml" filepath="$PROJECT_DIR$/lesson008_view_code/lesson008_view_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson008_working_with_code/lesson008_working_with_code.iml" filepath="$PROJECT_DIR$/lesson008_working_with_code/lesson008_working_with_code.iml" />
     </modules>
   </component>
 </project>

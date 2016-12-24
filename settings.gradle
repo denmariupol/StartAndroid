@@ -1,1 +1,1 @@
-include ':app', ':lesson003'
+include ':app', ':lesson003', ':lesson004', ':lesson005', ':lesson006_layouts', ':lesson007_layout_settings_for_view_elements', ':lesson008_view_code', ':lesson008_working_with_code'
