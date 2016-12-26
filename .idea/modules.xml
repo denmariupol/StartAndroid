@@ -11,6 +11,15 @@
       <module fileurl="file://$PROJECT_DIR$/lesson007_layout_settings_for_view_elements/lesson007_layout_settings_for_view_elements.iml" filepath="$PROJECT_DIR$/lesson007_layout_settings_for_view_elements/lesson007_layout_settings_for_view_elements.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson008_view_code/lesson008_view_code.iml" filepath="$PROJECT_DIR$/lesson008_view_code/lesson008_view_code.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson008_working_with_code/lesson008_working_with_code.iml" filepath="$PROJECT_DIR$/lesson008_working_with_code/lesson008_working_with_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson009_button_events/lesson009_button_events.iml" filepath="$PROJECT_DIR$/lesson009_button_events/lesson009_button_events.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson010_optimize_button_events/lesson010_optimize_button_events.iml" filepath="$PROJECT_DIR$/lesson010_optimize_button_events/lesson010_optimize_button_events.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson011_res_values/lesson011_res_values.iml" filepath="$PROJECT_DIR$/lesson011_res_values/lesson011_res_values.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson012_logs_popups/lesson012_logs_popups.iml" filepath="$PROJECT_DIR$/lesson012_logs_popups/lesson012_logs_popups.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson013_simple_menu/lesson013_simple_menu.iml" filepath="$PROJECT_DIR$/lesson013_simple_menu/lesson013_simple_menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson014_menu_groups_order_menuinflator_xmlmenu/lesson014_menu_groups_order_menuinflator_xmlmenu.iml" filepath="$PROJECT_DIR$/lesson014_menu_groups_order_menuinflator_xmlmenu/lesson014_menu_groups_order_menuinflator_xmlmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson015_contextmenu/lesson015_contextmenu.iml" filepath="$PROJECT_DIR$/lesson015_contextmenu/lesson015_contextmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson016_layoutparams/lesson016_layoutparams.iml" filepath="$PROJECT_DIR$/lesson016_layoutparams/lesson016_layoutparams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson017_create_views_in_runtime/lesson017_create_views_in_runtime.iml" filepath="$PROJECT_DIR$/lesson017_create_views_in_runtime/lesson017_create_views_in_runtime.iml" />
     </modules>
   </component>
 </project>

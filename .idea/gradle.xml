@@ -17,6 +17,15 @@
             <option value="$PROJECT_DIR$/lesson007_layout_settings_for_view_elements" />
             <option value="$PROJECT_DIR$/lesson008_view_code" />
             <option value="$PROJECT_DIR$/lesson008_working_with_code" />
+            <option value="$PROJECT_DIR$/lesson009_button_events" />
+            <option value="$PROJECT_DIR$/lesson010_optimize_button_events" />
+            <option value="$PROJECT_DIR$/lesson011_res_values" />
+            <option value="$PROJECT_DIR$/lesson012_logs_popups" />
+            <option value="$PROJECT_DIR$/lesson013_simple_menu" />
+            <option value="$PROJECT_DIR$/lesson014_menu_groups_order_menuinflator_xmlmenu" />
+            <option value="$PROJECT_DIR$/lesson015_contextmenu" />
+            <option value="$PROJECT_DIR$/lesson016_layoutparams" />
+            <option value="$PROJECT_DIR$/lesson017_create_views_in_runtime" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
