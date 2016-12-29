@@ -20,6 +20,8 @@
       <module fileurl="file://$PROJECT_DIR$/lesson015_contextmenu/lesson015_contextmenu.iml" filepath="$PROJECT_DIR$/lesson015_contextmenu/lesson015_contextmenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson016_layoutparams/lesson016_layoutparams.iml" filepath="$PROJECT_DIR$/lesson016_layoutparams/lesson016_layoutparams.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson017_create_views_in_runtime/lesson017_create_views_in_runtime.iml" filepath="$PROJECT_DIR$/lesson017_create_views_in_runtime/lesson017_create_views_in_runtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson018_change_layoutparams_in_runtime/lesson018_change_layoutparams_in_runtime.iml" filepath="$PROJECT_DIR$/lesson018_change_layoutparams_in_runtime/lesson018_change_layoutparams_in_runtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson019_calculator/lesson019_calculator.iml" filepath="$PROJECT_DIR$/lesson019_calculator/lesson019_calculator.iml" />
     </modules>
   </component>
 </project>

@@ -26,6 +26,8 @@
             <option value="$PROJECT_DIR$/lesson015_contextmenu" />
             <option value="$PROJECT_DIR$/lesson016_layoutparams" />
             <option value="$PROJECT_DIR$/lesson017_create_views_in_runtime" />
+            <option value="$PROJECT_DIR$/lesson018_change_layoutparams_in_runtime" />
+            <option value="$PROJECT_DIR$/lesson019_calculator" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
