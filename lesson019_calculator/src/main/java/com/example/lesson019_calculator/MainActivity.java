@@ -6,18 +6,18 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+import android.widget.Toast;
 
 
-public class MainActivity extends AppCompatActivity implements View.OnClickListener{
+public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
-    public Button btn1,btn2,btn3,btn4,btn5,btn6,btn7,btn8,btn9,btn0,btnPls,btnMns,btnMlt,btnDvd,btnDt,btnEq;
+    public Button btn1, btn2, btn3, btn4, btn5, btn6, btn7, btn8, btn9, btn0, btnPls, btnMns, btnMlt, btnDvd, btnDt, btnEq;
     public TextView scrn;
 
     private StringBuilder sb;
-    private int currentOperation,operationCounter;
+    private int currentOperation, lastOperation;
     private static final String TAG = "Main Activity";
     private float result;
-    private State state;
 
 
     @Override
@@ -32,8 +32,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
 
-
-    private void SetListener(){
+    private void SetListener() {
         btn0.setOnClickListener(this);
         btn1.setOnClickListener(this);
         btn2.setOnClickListener(this);
@@ -54,185 +53,185 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 
     private void Init() {
-        state = State.FIRST_NUMBER;
-        operationCounter = 0;
+        currentOperation = 0;
+        lastOperation = 0;
 
-        scrn = (TextView)findViewById(R.id.screen);
+        scrn = (TextView) findViewById(R.id.screen);
 
-        btnPls = (Button)findViewById(R.id.buttonPlus);
-        btnMns = (Button)findViewById(R.id.buttonMinus);
-        btnDvd = (Button)findViewById(R.id.buttonDivision);
-        btnMlt = (Button)findViewById(R.id.buttonMult);
-        btnDt = (Button)findViewById(R.id.buttonDot);
-        btnEq = (Button)findViewById(R.id.buttonEquals);
+        btnPls = (Button) findViewById(R.id.buttonPlus);
+        btnMns = (Button) findViewById(R.id.buttonMinus);
+        btnDvd = (Button) findViewById(R.id.buttonDivision);
+        btnMlt = (Button) findViewById(R.id.buttonMult);
+        btnDt = (Button) findViewById(R.id.buttonDot);
+        btnEq = (Button) findViewById(R.id.buttonEquals);
 
-        btn0 = (Button)findViewById(R.id.button0);
-        btn1 = (Button)findViewById(R.id.button1);
-        btn2 = (Button)findViewById(R.id.button2);
-        btn3 = (Button)findViewById(R.id.button3);
-        btn4 = (Button)findViewById(R.id.button4);
-        btn5 = (Button)findViewById(R.id.button5);
-        btn6 = (Button)findViewById(R.id.button6);
-        btn7 = (Button)findViewById(R.id.button7);
-        btn8 = (Button)findViewById(R.id.button8);
-        btn9 = (Button)findViewById(R.id.button9);
+        btn0 = (Button) findViewById(R.id.button0);
+        btn1 = (Button) findViewById(R.id.button1);
+        btn2 = (Button) findViewById(R.id.button2);
+        btn3 = (Button) findViewById(R.id.button3);
+        btn4 = (Button) findViewById(R.id.button4);
+        btn5 = (Button) findViewById(R.id.button5);
+        btn6 = (Button) findViewById(R.id.button6);
+        btn7 = (Button) findViewById(R.id.button7);
+        btn8 = (Button) findViewById(R.id.button8);
+        btn9 = (Button) findViewById(R.id.button9);
     }
 
 
     @Override
     public void onClick(View v) {
-        switch (v.getId()){
+        switch (v.getId()) {
             case R.id.button0:
-                CheckState();
                 sb.append("0");
                 scrn.setText(sb.toString());
                 break;
             case R.id.button1:
-                CheckState();
                 sb.append("1");
                 scrn.setText(sb.toString());
                 break;
             case R.id.button2:
-                CheckState();
                 sb.append("2");
                 scrn.setText(sb.toString());
                 break;
             case R.id.button3:
-                CheckState();
                 sb.append("3");
                 scrn.setText(sb.toString());
                 break;
             case R.id.button4:
-                CheckState();
                 sb.append("4");
                 scrn.setText(sb.toString());
                 break;
             case R.id.button5:
-                CheckState();
                 sb.append("5");
                 scrn.setText(sb.toString());
                 break;
             case R.id.button6:
-                CheckState();
                 sb.append("6");
                 scrn.setText(sb.toString());
                 break;
             case R.id.button7:
-                CheckState();
                 sb.append("7");
                 scrn.setText(sb.toString());
                 break;
             case R.id.button8:
-                CheckState();
                 sb.append("8");
                 scrn.setText(sb.toString());
                 break;
             case R.id.button9:
-                CheckState();
                 sb.append("9");
                 scrn.setText(sb.toString());
                 break;
             case R.id.buttonDot:
-                CheckState();
-                sb.append(".");
+                CheckDoubleDot(sb.toString());
                 scrn.setText(sb.toString());
                 break;
             case R.id.buttonEquals:
                 AddNumbers(sb.toString());
-                if (Numbers.numbers.size() == 2){
-                    switch (currentOperation){
+                if (Numbers.numbers.size() == 2) {
+                    switch (currentOperation) {
                         case 1:
-                            Operation.Division();
+                            scrn.setText(Result(Operation.Division()));
                             break;
                         case 2:
-                            Operation.Subtraction();
+                            scrn.setText(Result(Operation.Subtraction()));
                             break;
                         case 3:
-                            result = Operation.Addition();
-                            String s = Result(result);
-                            scrn.setText(s);
-                            Log.d(TAG,"Addition"+String.valueOf(Operation.Addition()));
+                            scrn.setText(Result(Operation.Addition()));
                             break;
                         case 4:
-                            Operation.Multiply();
+                            scrn.setText(Result(Operation.Multiply()));
                             break;
                     }
-                    state = State.EQUALS_PRESSED;
-                }else
-                    state = State.EQUALS_PRESSED;
+
+                } else {
+                    DeleteNumbers();
+                    ClrScrn();
+                }
                 break;
             case R.id.buttonDivision:
-                currentOperation = 1;
-                CountOperation();
+                CheckOperation(1);
+                PerformOperatiom(lastOperation);
                 break;
             case R.id.buttonMinus:
-                currentOperation = 2;
-                CountOperation();
+                CheckOperation(2);
+                PerformOperatiom(lastOperation);
                 break;
             case R.id.buttonPlus:
-                currentOperation = 3;
-                CountOperation();
+                CheckOperation(3);
+                PerformOperatiom(lastOperation);
                 break;
             case R.id.buttonMult:
-                currentOperation = 4;
-                CountOperation();
+                CheckOperation(4);
+                PerformOperatiom(lastOperation);
                 break;
         }
     }
 
+    // history of last 1 operation
+    void CheckOperation(int curOp) {
+        if (currentOperation == 0 && lastOperation == 0) {
+            currentOperation = curOp;
+            lastOperation = curOp;
+            return;
+        }
 
-    void DeleteNumbers(){
+        lastOperation = currentOperation;
+        currentOperation = curOp;
+    }
+
+
+    void PerformOperatiom(int op) {
+        if (Float.valueOf(scrn.getText().toString()) == 0){
+            DeleteNumbers();
+            return;
+        }
+        AddNumbers(scrn.getText().toString());
+        if (Numbers.numbers.size() == 2) {
+            sb = new StringBuilder();
+            switch (lastOperation) {
+                case 1:
+                    result = Operation.Division();
+                    break;
+                case 2:
+                    result = Operation.Subtraction();
+                    break;
+                case 3:
+                    result = Operation.Addition();
+                    break;
+                case 4:
+                    result = Operation.Multiply();
+                    break;
+            }
+            String s = Result(result);
+            scrn.setText(s);
+            AddNumbers(scrn.getText().toString());
+        } else
+            sb = new StringBuilder();
+    }
+
+
+    void DeleteNumbers() {
         Numbers.numbers.clear();
     }
 
 
-    void ClrScrn(){
+    void ClrScrn() {
         sb = new StringBuilder();
         scrn.setText("0");
     }
 
-
-    void AddNumbers(String s){
-        if(Numbers.numbers.size()<2 && s.length() > 0)
+    // add numbers to a list
+    void AddNumbers(String s) {
+        if (Numbers.numbers.size() <= 1 && s.length() > 0 && Float.valueOf(s) != 0)
             Numbers.numbers.add(Float.valueOf(s));
-    }
-
-
-    void CountOperation(){
-        operationCounter++;
-        if(operationCounter <= 1)
-            state = State.OPERATION_PRESSED_FIRST;
-        else
-            state = State.OPERATION_PRESSED_SECOND;
-    }
-
-
-    void CheckState(){
-        switch (state){
-            case EQUALS_PRESSED:
-                DeleteNumbers();
-                ClrScrn();
-                state = State.FIRST_NUMBER;
-                break;
-            case OPERATION_PRESSED_SECOND:
-                AddNumbers(scrn.getText().toString());
-                DeleteNumbers();
-                ClrScrn();
-                break;
-            case OPERATION_PRESSED_FIRST:
-                AddNumbers(scrn.getText().toString());
-                ClrScrn();
-                break;
-            case FIRST_NUMBER:
-
-                break;
-            case SECOND_NUMBER:
-
-                break;
+        else if (Numbers.numbers.size() == 2 && s.length() > 0 && Float.valueOf(s) != 0) {
+            DeleteNumbers();
+            Numbers.numbers.add(Float.valueOf(scrn.getText().toString()));
         }
     }
 
-    String Result(Float number){
+    //if decimal part == 0,remove it
+    String Result(Float number) {
         String s = String.valueOf(number);
         String[] parts = s.split("\\.");
 
@@ -240,5 +239,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             return parts[0].toString();
         else
             return s;
+    }
+
+    // check for double dot in number
+    void CheckDoubleDot(String s){
+        if (!s.contains("."))
+            sb.append(".");
     }
 }
