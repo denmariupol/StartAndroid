@@ -8,6 +8,8 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import java.math.BigDecimal;
+
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
@@ -17,7 +19,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private StringBuilder sb;
     private int currentOperation, lastOperation;
     private static final String TAG = "Main Activity";
-    private float result;
+    private BigDecimal result;
 
 
     @Override
@@ -223,22 +225,28 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     // add numbers to a list
     void AddNumbers(String s) {
         if (Numbers.numbers.size() <= 1 && s.length() > 0 && Float.valueOf(s) != 0)
-            Numbers.numbers.add(Float.valueOf(s));
+            Numbers.numbers.add(new BigDecimal(Double.valueOf(s)));
         else if (Numbers.numbers.size() == 2 && s.length() > 0 && Float.valueOf(s) != 0) {
             DeleteNumbers();
-            Numbers.numbers.add(Float.valueOf(scrn.getText().toString()));
+            Numbers.numbers.add(new BigDecimal(Double.valueOf(scrn.getText().toString())));
         }
     }
 
     //if decimal part == 0,remove it
-    String Result(Float number) {
+    String Result(BigDecimal number) {
         String s = String.valueOf(number);
         String[] parts = s.split("\\.");
+        switch (parts.length){
+            case 1:
+                return s;
 
-        if (parts[1].length() == 1 && Integer.valueOf(parts[1]) == 0)
-            return parts[0].toString();
-        else
-            return s;
+            case 2:
+                return parts[0].toString();
+
+            default:
+                break;
+        }
+        return "";
     }
 
     // check for double dot in number

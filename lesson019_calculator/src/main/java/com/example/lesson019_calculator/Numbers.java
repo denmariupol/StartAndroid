@@ -1,5 +1,6 @@
 package com.example.lesson019_calculator;
 
+import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
@@ -9,9 +10,9 @@ import java.util.List;
  */
 
 class Numbers {
-    static LinkedList<Float> numbers;
+    static LinkedList<BigDecimal> numbers;
 
     static void init(){
-        numbers  = new LinkedList<Float>();
+        numbers  = new LinkedList<BigDecimal>();
     }
 }

@@ -28,6 +28,8 @@
             <option value="$PROJECT_DIR$/lesson017_create_views_in_runtime" />
             <option value="$PROJECT_DIR$/lesson018_change_layoutparams_in_runtime" />
             <option value="$PROJECT_DIR$/lesson019_calculator" />
+            <option value="$PROJECT_DIR$/lesson020_animation" />
+            <option value="$PROJECT_DIR$/lesson021_secondactivity" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
