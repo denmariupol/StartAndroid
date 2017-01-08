@@ -15,7 +15,6 @@
             <option value="$PROJECT_DIR$/lesson005" />
             <option value="$PROJECT_DIR$/lesson006_layouts" />
             <option value="$PROJECT_DIR$/lesson007_layout_settings_for_view_elements" />
-            <option value="$PROJECT_DIR$/lesson008_view_code" />
             <option value="$PROJECT_DIR$/lesson008_working_with_code" />
             <option value="$PROJECT_DIR$/lesson009_button_events" />
             <option value="$PROJECT_DIR$/lesson010_optimize_button_events" />
@@ -32,7 +31,10 @@
             <option value="$PROJECT_DIR$/lesson021_secondactivity" />
             <option value="$PROJECT_DIR$/lesson023_activity_lifecycle" />
             <option value="$PROJECT_DIR$/lesson024_activity_lifecycle_2_activities" />
-            <option value="$PROJECT_DIR$/lesson025_task" />
+            <option value="$PROJECT_DIR$/lesson026_intent_filter" />
+            <option value="$PROJECT_DIR$/lesson027_action_from_intent" />
+            <option value="$PROJECT_DIR$/lesson028_extras_send_data_withintent" />
+            <option value="$PROJECT_DIR$/lesson029_call_activity_and_get_result_startactivityforresult" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
