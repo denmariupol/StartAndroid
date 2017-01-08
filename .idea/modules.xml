@@ -29,6 +29,7 @@
       <module fileurl="file://$PROJECT_DIR$/lesson027_action_from_intent/lesson027_action_from_intent.iml" filepath="$PROJECT_DIR$/lesson027_action_from_intent/lesson027_action_from_intent.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson028_extras_send_data_withintent/lesson028_extras_send_data_withintent.iml" filepath="$PROJECT_DIR$/lesson028_extras_send_data_withintent/lesson028_extras_send_data_withintent.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson029_call_activity_and_get_result_startactivityforresult/lesson029_call_activity_and_get_result_startactivityforresult.iml" filepath="$PROJECT_DIR$/lesson029_call_activity_and_get_result_startactivityforresult/lesson029_call_activity_and_get_result_startactivityforresult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson030_onactivityresult_requestcode_resultcode/lesson030_onactivityresult_requestcode_resultcode.iml" filepath="$PROJECT_DIR$/lesson030_onactivityresult_requestcode_resultcode/lesson030_onactivityresult_requestcode_resultcode.iml" />
     </modules>
   </component>
 </project>
