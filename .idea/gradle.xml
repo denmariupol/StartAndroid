@@ -30,6 +30,9 @@
             <option value="$PROJECT_DIR$/lesson019_calculator" />
             <option value="$PROJECT_DIR$/lesson020_animation" />
             <option value="$PROJECT_DIR$/lesson021_secondactivity" />
+            <option value="$PROJECT_DIR$/lesson023_activity_lifecycle" />
+            <option value="$PROJECT_DIR$/lesson024_activity_lifecycle_2_activities" />
+            <option value="$PROJECT_DIR$/lesson025_task" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

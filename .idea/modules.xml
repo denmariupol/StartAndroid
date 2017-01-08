@@ -24,6 +24,9 @@
       <module fileurl="file://$PROJECT_DIR$/lesson019_calculator/lesson019_calculator.iml" filepath="$PROJECT_DIR$/lesson019_calculator/lesson019_calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson020_animation/lesson020_animation.iml" filepath="$PROJECT_DIR$/lesson020_animation/lesson020_animation.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson021_secondactivity/lesson021_secondactivity.iml" filepath="$PROJECT_DIR$/lesson021_secondactivity/lesson021_secondactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson023_activity_lifecycle/lesson023_activity_lifecycle.iml" filepath="$PROJECT_DIR$/lesson023_activity_lifecycle/lesson023_activity_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson024_activity_lifecycle_2_activities/lesson024_activity_lifecycle_2_activities.iml" filepath="$PROJECT_DIR$/lesson024_activity_lifecycle_2_activities/lesson024_activity_lifecycle_2_activities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson025_task/lesson025_task.iml" filepath="$PROJECT_DIR$/lesson025_task/lesson025_task.iml" />
     </modules>
   </component>
 </project>
