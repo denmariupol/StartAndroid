@@ -39,7 +39,7 @@
             <option value="$PROJECT_DIR$/lesson031_intent-data_uri_call_system_app" />
             <option value="$PROJECT_DIR$/lesson032_simple_browser" />
             <option value="$PROJECT_DIR$/lesson033_preferences_storedata" />
-            <option value="$PROJECT_DIR$/lesson034_sqlite" />
+            <option value="$PROJECT_DIR$/lesson034-035_sqlite" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

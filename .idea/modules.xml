@@ -33,7 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/lesson031_intent-data_uri_call_system_app/lesson031_intent-data_uri_call_system_app.iml" filepath="$PROJECT_DIR$/lesson031_intent-data_uri_call_system_app/lesson031_intent-data_uri_call_system_app.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson032_simple_browser/lesson032_simple_browser.iml" filepath="$PROJECT_DIR$/lesson032_simple_browser/lesson032_simple_browser.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson033_preferences_storedata/lesson033_preferences_storedata.iml" filepath="$PROJECT_DIR$/lesson033_preferences_storedata/lesson033_preferences_storedata.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson034_sqlite/lesson034_sqlite.iml" filepath="$PROJECT_DIR$/lesson034_sqlite/lesson034_sqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson034-035_sqlite/lesson034-035_sqlite.iml" filepath="$PROJECT_DIR$/lesson034-035_sqlite/lesson034-035_sqlite.iml" />
     </modules>
   </component>
 </project>
