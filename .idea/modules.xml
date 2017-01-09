@@ -30,6 +30,10 @@
       <module fileurl="file://$PROJECT_DIR$/lesson028_extras_send_data_withintent/lesson028_extras_send_data_withintent.iml" filepath="$PROJECT_DIR$/lesson028_extras_send_data_withintent/lesson028_extras_send_data_withintent.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson029_call_activity_and_get_result_startactivityforresult/lesson029_call_activity_and_get_result_startactivityforresult.iml" filepath="$PROJECT_DIR$/lesson029_call_activity_and_get_result_startactivityforresult/lesson029_call_activity_and_get_result_startactivityforresult.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson030_onactivityresult_requestcode_resultcode/lesson030_onactivityresult_requestcode_resultcode.iml" filepath="$PROJECT_DIR$/lesson030_onactivityresult_requestcode_resultcode/lesson030_onactivityresult_requestcode_resultcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson031_intent-data_uri_call_system_app/lesson031_intent-data_uri_call_system_app.iml" filepath="$PROJECT_DIR$/lesson031_intent-data_uri_call_system_app/lesson031_intent-data_uri_call_system_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson032_simple_browser/lesson032_simple_browser.iml" filepath="$PROJECT_DIR$/lesson032_simple_browser/lesson032_simple_browser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson033_preferences_storedata/lesson033_preferences_storedata.iml" filepath="$PROJECT_DIR$/lesson033_preferences_storedata/lesson033_preferences_storedata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson034_sqlite/lesson034_sqlite.iml" filepath="$PROJECT_DIR$/lesson034_sqlite/lesson034_sqlite.iml" />
     </modules>
   </component>
 </project>

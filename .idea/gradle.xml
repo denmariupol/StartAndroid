@@ -36,6 +36,10 @@
             <option value="$PROJECT_DIR$/lesson028_extras_send_data_withintent" />
             <option value="$PROJECT_DIR$/lesson029_call_activity_and_get_result_startactivityforresult" />
             <option value="$PROJECT_DIR$/lesson030_onactivityresult_requestcode_resultcode" />
+            <option value="$PROJECT_DIR$/lesson031_intent-data_uri_call_system_app" />
+            <option value="$PROJECT_DIR$/lesson032_simple_browser" />
+            <option value="$PROJECT_DIR$/lesson033_preferences_storedata" />
+            <option value="$PROJECT_DIR$/lesson034_sqlite" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
