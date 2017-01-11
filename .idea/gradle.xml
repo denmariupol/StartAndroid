@@ -40,6 +40,10 @@
             <option value="$PROJECT_DIR$/lesson032_simple_browser" />
             <option value="$PROJECT_DIR$/lesson033_preferences_storedata" />
             <option value="$PROJECT_DIR$/lesson034-035_sqlite" />
+            <option value="$PROJECT_DIR$/lesson036_sqlite_query_condition_sorting_grouping" />
+            <option value="$PROJECT_DIR$/lesson037_queryfromlinkeddb_innerjoin_rawquery" />
+            <option value="$PROJECT_DIR$/lesson038_sqltransaction" />
+            <option value="$PROJECT_DIR$/lesson039_onupgrade_renewsqlite" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

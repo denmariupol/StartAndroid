@@ -34,6 +34,10 @@
       <module fileurl="file://$PROJECT_DIR$/lesson032_simple_browser/lesson032_simple_browser.iml" filepath="$PROJECT_DIR$/lesson032_simple_browser/lesson032_simple_browser.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson033_preferences_storedata/lesson033_preferences_storedata.iml" filepath="$PROJECT_DIR$/lesson033_preferences_storedata/lesson033_preferences_storedata.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson034-035_sqlite/lesson034-035_sqlite.iml" filepath="$PROJECT_DIR$/lesson034-035_sqlite/lesson034-035_sqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson036_sqlite_query_condition_sorting_grouping/lesson036_sqlite_query_condition_sorting_grouping.iml" filepath="$PROJECT_DIR$/lesson036_sqlite_query_condition_sorting_grouping/lesson036_sqlite_query_condition_sorting_grouping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson037_queryfromlinkeddb_innerjoin_rawquery/lesson037_queryfromlinkeddb_innerjoin_rawquery.iml" filepath="$PROJECT_DIR$/lesson037_queryfromlinkeddb_innerjoin_rawquery/lesson037_queryfromlinkeddb_innerjoin_rawquery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson038_sqltransaction/lesson038_sqltransaction.iml" filepath="$PROJECT_DIR$/lesson038_sqltransaction/lesson038_sqltransaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson039_onupgrade_renewsqlite/lesson039_onupgrade_renewsqlite.iml" filepath="$PROJECT_DIR$/lesson039_onupgrade_renewsqlite/lesson039_onupgrade_renewsqlite.iml" />
     </modules>
   </component>
 </project>
