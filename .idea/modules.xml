@@ -38,6 +38,7 @@
       <module fileurl="file://$PROJECT_DIR$/lesson037_queryfromlinkeddb_innerjoin_rawquery/lesson037_queryfromlinkeddb_innerjoin_rawquery.iml" filepath="$PROJECT_DIR$/lesson037_queryfromlinkeddb_innerjoin_rawquery/lesson037_queryfromlinkeddb_innerjoin_rawquery.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson038_sqltransaction/lesson038_sqltransaction.iml" filepath="$PROJECT_DIR$/lesson038_sqltransaction/lesson038_sqltransaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson039_onupgrade_renewsqlite/lesson039_onupgrade_renewsqlite.iml" filepath="$PROJECT_DIR$/lesson039_onupgrade_renewsqlite/lesson039_onupgrade_renewsqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson040_layoutinflater/lesson040_layoutinflater.iml" filepath="$PROJECT_DIR$/lesson040_layoutinflater/lesson040_layoutinflater.iml" />
     </modules>
   </component>
 </project>

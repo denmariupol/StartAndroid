@@ -44,6 +44,7 @@
             <option value="$PROJECT_DIR$/lesson037_queryfromlinkeddb_innerjoin_rawquery" />
             <option value="$PROJECT_DIR$/lesson038_sqltransaction" />
             <option value="$PROJECT_DIR$/lesson039_onupgrade_renewsqlite" />
+            <option value="$PROJECT_DIR$/lesson040_layoutinflater" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
