@@ -39,6 +39,8 @@
       <module fileurl="file://$PROJECT_DIR$/lesson038_sqltransaction/lesson038_sqltransaction.iml" filepath="$PROJECT_DIR$/lesson038_sqltransaction/lesson038_sqltransaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson039_onupgrade_renewsqlite/lesson039_onupgrade_renewsqlite.iml" filepath="$PROJECT_DIR$/lesson039_onupgrade_renewsqlite/lesson039_onupgrade_renewsqlite.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson040_layoutinflater/lesson040_layoutinflater.iml" filepath="$PROJECT_DIR$/lesson040_layoutinflater/lesson040_layoutinflater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson041_layoutinflater_list/lesson041_layoutinflater_list.iml" filepath="$PROJECT_DIR$/lesson041_layoutinflater_list/lesson041_layoutinflater_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson042_listview/lesson042_listview.iml" filepath="$PROJECT_DIR$/lesson042_listview/lesson042_listview.iml" />
     </modules>
   </component>
 </project>

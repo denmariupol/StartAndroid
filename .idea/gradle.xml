@@ -45,6 +45,8 @@
             <option value="$PROJECT_DIR$/lesson038_sqltransaction" />
             <option value="$PROJECT_DIR$/lesson039_onupgrade_renewsqlite" />
             <option value="$PROJECT_DIR$/lesson040_layoutinflater" />
+            <option value="$PROJECT_DIR$/lesson041_layoutinflater_list" />
+            <option value="$PROJECT_DIR$/lesson042_listview" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
