@@ -47,6 +47,9 @@
             <option value="$PROJECT_DIR$/lesson040_layoutinflater" />
             <option value="$PROJECT_DIR$/lesson041_layoutinflater_list" />
             <option value="$PROJECT_DIR$/lesson042_listview" />
+            <option value="$PROJECT_DIR$/lesson043_simple_and_multiple_choice_in_listview" />
+            <option value="$PROJECT_DIR$/lesson044_listview_events" />
+            <option value="$PROJECT_DIR$/lesson045_expandablelistview" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
