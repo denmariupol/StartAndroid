@@ -52,6 +52,8 @@
             <option value="$PROJECT_DIR$/lesson045_expandablelistview" />
             <option value="$PROJECT_DIR$/lesson046_expandablelistview_events" />
             <option value="$PROJECT_DIR$/lesson048_simpleadapter" />
+            <option value="$PROJECT_DIR$/lesson049_simpleadapter_settextview_setviewimage" />
+            <option value="$PROJECT_DIR$/lesson050_simpleadapter_viewbinder" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
