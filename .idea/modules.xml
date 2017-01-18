@@ -44,6 +44,8 @@
       <module fileurl="file://$PROJECT_DIR$/lesson043_simple_and_multiple_choice_in_listview/lesson043_simple_and_multiple_choice_in_listview.iml" filepath="$PROJECT_DIR$/lesson043_simple_and_multiple_choice_in_listview/lesson043_simple_and_multiple_choice_in_listview.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson044_listview_events/lesson044_listview_events.iml" filepath="$PROJECT_DIR$/lesson044_listview_events/lesson044_listview_events.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson045_expandablelistview/lesson045_expandablelistview.iml" filepath="$PROJECT_DIR$/lesson045_expandablelistview/lesson045_expandablelistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson046_expandablelistview_events/lesson046_expandablelistview_events.iml" filepath="$PROJECT_DIR$/lesson046_expandablelistview_events/lesson046_expandablelistview_events.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson048_simpleadapter/lesson048_simpleadapter.iml" filepath="$PROJECT_DIR$/lesson048_simpleadapter/lesson048_simpleadapter.iml" />
     </modules>
   </component>
 </project>

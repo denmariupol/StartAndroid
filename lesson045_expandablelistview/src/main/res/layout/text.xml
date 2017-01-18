@@ -3,20 +3,18 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
     <TextView
-        android:id="@+id/groupelement"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+
+    android:id="@+id/textView1"
+    android:layout_gravity="left|center_vertical"
+    android:textSize="25dp" />
+
+    <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textColor="#fff"
-        android:textSize="21dp"
-        android:gravity="left"
-        />
-    <TextView
-        xmlns:android="http://schemas.android.com/apk/res/android"
-        android:id="@+id/submenuitem"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:textColor="#fff"
-        android:textSize="16dip"
-        android:paddingBottom="5dp"
-        android:paddingLeft="10dp" />
+
+        android:id="@+id/textView2"
+        android:layout_gravity="right|center_vertical"
+        android:textSize="25dp" />
 </LinearLayout>

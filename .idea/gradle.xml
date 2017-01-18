@@ -50,6 +50,8 @@
             <option value="$PROJECT_DIR$/lesson043_simple_and_multiple_choice_in_listview" />
             <option value="$PROJECT_DIR$/lesson044_listview_events" />
             <option value="$PROJECT_DIR$/lesson045_expandablelistview" />
+            <option value="$PROJECT_DIR$/lesson046_expandablelistview_events" />
+            <option value="$PROJECT_DIR$/lesson048_simpleadapter" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
