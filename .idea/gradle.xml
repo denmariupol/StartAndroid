@@ -55,6 +55,8 @@
             <option value="$PROJECT_DIR$/lesson049_simpleadapter_settextview_setviewimage" />
             <option value="$PROJECT_DIR$/lesson050_simpleadapter_viewbinder" />
             <option value="$PROJECT_DIR$/lesson051_simpleadapter_add_remove" />
+            <option value="$PROJECT_DIR$/lesson053_simplecursortreeadapter" />
+            <option value="$PROJECT_DIR$/lesson054_using_own_adapter_customisinglist" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
