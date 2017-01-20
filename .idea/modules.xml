@@ -48,6 +48,7 @@
       <module fileurl="file://$PROJECT_DIR$/lesson048_simpleadapter/lesson048_simpleadapter.iml" filepath="$PROJECT_DIR$/lesson048_simpleadapter/lesson048_simpleadapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson049_simpleadapter_settextview_setviewimage/lesson049_simpleadapter_settextview_setviewimage.iml" filepath="$PROJECT_DIR$/lesson049_simpleadapter_settextview_setviewimage/lesson049_simpleadapter_settextview_setviewimage.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson050_simpleadapter_viewbinder/lesson050_simpleadapter_viewbinder.iml" filepath="$PROJECT_DIR$/lesson050_simpleadapter_viewbinder/lesson050_simpleadapter_viewbinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson051_simpleadapter_add_remove/lesson051_simpleadapter_add_remove.iml" filepath="$PROJECT_DIR$/lesson051_simpleadapter_add_remove/lesson051_simpleadapter_add_remove.iml" />
     </modules>
   </component>
 </project>
