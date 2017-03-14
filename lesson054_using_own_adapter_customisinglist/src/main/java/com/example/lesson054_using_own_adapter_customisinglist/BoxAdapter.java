@@ -66,6 +66,7 @@ public class BoxAdapter extends BaseAdapter implements CompoundButton.OnCheckedC
         CheckBox cbBuy = (CheckBox)view.findViewById(R.id.cbBox);
         // присваиваем чекбоксу обработчик
         cbBuy.setOnCheckedChangeListener(this);
+        return convertView;
     }
 
     // товар по позиции
@@ -88,6 +89,6 @@ public class BoxAdapter extends BaseAdapter implements CompoundButton.OnCheckedC
     @Override
     public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
         // меняем данные товара (в корзине или нет)
-        getProduct((Integer)buttonView.getTag().)
+//        getProduct((Integer)buttonView.getTag().)
     }
 }

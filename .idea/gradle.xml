@@ -13,14 +13,19 @@
             <option value="$PROJECT_DIR$/lesson003" />
             <option value="$PROJECT_DIR$/lesson004" />
             <option value="$PROJECT_DIR$/lesson005" />
+            <option value="$PROJECT_DIR$/lesson005_homework" />
+            <option value="$PROJECT_DIR$/lesson006_homework" />
             <option value="$PROJECT_DIR$/lesson006_layouts" />
             <option value="$PROJECT_DIR$/lesson007_layout_settings_for_view_elements" />
+            <option value="$PROJECT_DIR$/lesson008_homework" />
             <option value="$PROJECT_DIR$/lesson008_working_with_code" />
             <option value="$PROJECT_DIR$/lesson009_button_events" />
             <option value="$PROJECT_DIR$/lesson010_optimize_button_events" />
             <option value="$PROJECT_DIR$/lesson011_res_values" />
             <option value="$PROJECT_DIR$/lesson012_logs_popups" />
+            <option value="$PROJECT_DIR$/lesson013_homework" />
             <option value="$PROJECT_DIR$/lesson013_simple_menu" />
+            <option value="$PROJECT_DIR$/lesson014_homework" />
             <option value="$PROJECT_DIR$/lesson014_menu_groups_order_menuinflator_xmlmenu" />
             <option value="$PROJECT_DIR$/lesson015_contextmenu" />
             <option value="$PROJECT_DIR$/lesson016_layoutparams" />
@@ -57,6 +62,11 @@
             <option value="$PROJECT_DIR$/lesson051_simpleadapter_add_remove" />
             <option value="$PROJECT_DIR$/lesson053_simplecursortreeadapter" />
             <option value="$PROJECT_DIR$/lesson054_using_own_adapter_customisinglist" />
+            <option value="$PROJECT_DIR$/lesson141_drawing_accesstocanvas" />
+            <option value="$PROJECT_DIR$/lesson144_drawing_matrix" />
+            <option value="$PROJECT_DIR$/lesson157_drawing_bitmap_bitmapfactory_iotocanvas" />
+            <option value="$PROJECT_DIR$/lesson160_bitmap_bigsize" />
+            <option value="$PROJECT_DIR$/lesson161_drawing_bitmap_memorycache_picasso" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -7,14 +7,19 @@
       <module fileurl="file://$PROJECT_DIR$/lesson003/lesson003.iml" filepath="$PROJECT_DIR$/lesson003/lesson003.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson004/lesson004.iml" filepath="$PROJECT_DIR$/lesson004/lesson004.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson005/lesson005.iml" filepath="$PROJECT_DIR$/lesson005/lesson005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson005_homework/lesson005_homework.iml" filepath="$PROJECT_DIR$/lesson005_homework/lesson005_homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson006_homework/lesson006_homework.iml" filepath="$PROJECT_DIR$/lesson006_homework/lesson006_homework.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson006_layouts/lesson006_layouts.iml" filepath="$PROJECT_DIR$/lesson006_layouts/lesson006_layouts.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson007_layout_settings_for_view_elements/lesson007_layout_settings_for_view_elements.iml" filepath="$PROJECT_DIR$/lesson007_layout_settings_for_view_elements/lesson007_layout_settings_for_view_elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson008_homework/lesson008_homework.iml" filepath="$PROJECT_DIR$/lesson008_homework/lesson008_homework.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson008_working_with_code/lesson008_working_with_code.iml" filepath="$PROJECT_DIR$/lesson008_working_with_code/lesson008_working_with_code.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson009_button_events/lesson009_button_events.iml" filepath="$PROJECT_DIR$/lesson009_button_events/lesson009_button_events.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson010_optimize_button_events/lesson010_optimize_button_events.iml" filepath="$PROJECT_DIR$/lesson010_optimize_button_events/lesson010_optimize_button_events.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson011_res_values/lesson011_res_values.iml" filepath="$PROJECT_DIR$/lesson011_res_values/lesson011_res_values.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson012_logs_popups/lesson012_logs_popups.iml" filepath="$PROJECT_DIR$/lesson012_logs_popups/lesson012_logs_popups.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson013_homework/lesson013_homework.iml" filepath="$PROJECT_DIR$/lesson013_homework/lesson013_homework.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson013_simple_menu/lesson013_simple_menu.iml" filepath="$PROJECT_DIR$/lesson013_simple_menu/lesson013_simple_menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson014_homework/lesson014_homework.iml" filepath="$PROJECT_DIR$/lesson014_homework/lesson014_homework.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson014_menu_groups_order_menuinflator_xmlmenu/lesson014_menu_groups_order_menuinflator_xmlmenu.iml" filepath="$PROJECT_DIR$/lesson014_menu_groups_order_menuinflator_xmlmenu/lesson014_menu_groups_order_menuinflator_xmlmenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson015_contextmenu/lesson015_contextmenu.iml" filepath="$PROJECT_DIR$/lesson015_contextmenu/lesson015_contextmenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson016_layoutparams/lesson016_layoutparams.iml" filepath="$PROJECT_DIR$/lesson016_layoutparams/lesson016_layoutparams.iml" />
@@ -51,6 +56,11 @@
       <module fileurl="file://$PROJECT_DIR$/lesson051_simpleadapter_add_remove/lesson051_simpleadapter_add_remove.iml" filepath="$PROJECT_DIR$/lesson051_simpleadapter_add_remove/lesson051_simpleadapter_add_remove.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson053_simplecursortreeadapter/lesson053_simplecursortreeadapter.iml" filepath="$PROJECT_DIR$/lesson053_simplecursortreeadapter/lesson053_simplecursortreeadapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson054_using_own_adapter_customisinglist/lesson054_using_own_adapter_customisinglist.iml" filepath="$PROJECT_DIR$/lesson054_using_own_adapter_customisinglist/lesson054_using_own_adapter_customisinglist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson141_drawing_accesstocanvas/lesson141_drawing_accesstocanvas.iml" filepath="$PROJECT_DIR$/lesson141_drawing_accesstocanvas/lesson141_drawing_accesstocanvas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson144_drawing_matrix/lesson144_drawing_matrix.iml" filepath="$PROJECT_DIR$/lesson144_drawing_matrix/lesson144_drawing_matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson157_drawing_bitmap_bitmapfactory_iotocanvas/lesson157_drawing_bitmap_bitmapfactory_iotocanvas.iml" filepath="$PROJECT_DIR$/lesson157_drawing_bitmap_bitmapfactory_iotocanvas/lesson157_drawing_bitmap_bitmapfactory_iotocanvas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson160_bitmap_bigsize/lesson160_bitmap_bigsize.iml" filepath="$PROJECT_DIR$/lesson160_bitmap_bigsize/lesson160_bitmap_bigsize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson161_drawing_bitmap_memorycache_picasso/lesson161_drawing_bitmap_memorycache_picasso.iml" filepath="$PROJECT_DIR$/lesson161_drawing_bitmap_memorycache_picasso/lesson161_drawing_bitmap_memorycache_picasso.iml" />
     </modules>
   </component>
 </project>
