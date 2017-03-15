@@ -59,6 +59,8 @@
       <module fileurl="file://$PROJECT_DIR$/lesson141_drawing_accesstocanvas/lesson141_drawing_accesstocanvas.iml" filepath="$PROJECT_DIR$/lesson141_drawing_accesstocanvas/lesson141_drawing_accesstocanvas.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson144_drawing_matrix/lesson144_drawing_matrix.iml" filepath="$PROJECT_DIR$/lesson144_drawing_matrix/lesson144_drawing_matrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson157_drawing_bitmap_bitmapfactory_iotocanvas/lesson157_drawing_bitmap_bitmapfactory_iotocanvas.iml" filepath="$PROJECT_DIR$/lesson157_drawing_bitmap_bitmapfactory_iotocanvas/lesson157_drawing_bitmap_bitmapfactory_iotocanvas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson158_drawing_bitmap_createbitmap_density_mutable/lesson158_drawing_bitmap_createbitmap_density_mutable.iml" filepath="$PROJECT_DIR$/lesson158_drawing_bitmap_createbitmap_density_mutable/lesson158_drawing_bitmap_createbitmap_density_mutable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson159_drawing_bitmap_bitmapfactory.options_save/lesson159_drawing_bitmap_bitmapfactory.options_save.iml" filepath="$PROJECT_DIR$/lesson159_drawing_bitmap_bitmapfactory.options_save/lesson159_drawing_bitmap_bitmapfactory.options_save.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson160_bitmap_bigsize/lesson160_bitmap_bigsize.iml" filepath="$PROJECT_DIR$/lesson160_bitmap_bigsize/lesson160_bitmap_bigsize.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson161_drawing_bitmap_memorycache_picasso/lesson161_drawing_bitmap_memorycache_picasso.iml" filepath="$PROJECT_DIR$/lesson161_drawing_bitmap_memorycache_picasso/lesson161_drawing_bitmap_memorycache_picasso.iml" />
     </modules>

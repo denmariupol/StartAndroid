@@ -65,6 +65,8 @@
             <option value="$PROJECT_DIR$/lesson141_drawing_accesstocanvas" />
             <option value="$PROJECT_DIR$/lesson144_drawing_matrix" />
             <option value="$PROJECT_DIR$/lesson157_drawing_bitmap_bitmapfactory_iotocanvas" />
+            <option value="$PROJECT_DIR$/lesson158_drawing_bitmap_createbitmap_density_mutable" />
+            <option value="$PROJECT_DIR$/lesson159_drawing_bitmap_bitmapfactory.options_save" />
             <option value="$PROJECT_DIR$/lesson160_bitmap_bigsize" />
             <option value="$PROJECT_DIR$/lesson161_drawing_bitmap_memorycache_picasso" />
           </set>
