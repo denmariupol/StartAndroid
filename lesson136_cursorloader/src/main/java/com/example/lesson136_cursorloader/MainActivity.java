@@ -28,16 +28,17 @@ public class MainActivity extends FragmentActivity implements LoaderCallbacks<Cu
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        listView = (ListView) findViewById(R.id.lvData);
+
         //open connection to DB
         db = new DB(this);
         db.open();
 
         //form data for adapter
         String[] from = new String[]{DB.COLUMN_IMG, DB.COLUMN_TXT};
-        int[] to = new int[]{R.id.ivImg, R.id.lvData};
+        int[] to = new int[]{R.id.ivImg, R.id.tvText};
 
         scAdapter = new SimpleCursorAdapter(this, R.layout.item, null, from, to, 0);
+        listView = (ListView) findViewById(R.id.lvData);
         listView.setAdapter(scAdapter);
 
         //add contect menu to list
@@ -92,7 +93,7 @@ public class MainActivity extends FragmentActivity implements LoaderCallbacks<Cu
 
     @Override
     public void onLoadFinished(Loader<Cursor> loader, Cursor data) {
-
+        scAdapter.swapCursor(data);
     }
 
     @Override
