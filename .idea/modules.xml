@@ -56,6 +56,9 @@
       <module fileurl="file://$PROJECT_DIR$/lesson051_simpleadapter_add_remove/lesson051_simpleadapter_add_remove.iml" filepath="$PROJECT_DIR$/lesson051_simpleadapter_add_remove/lesson051_simpleadapter_add_remove.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson053_simplecursortreeadapter/lesson053_simplecursortreeadapter.iml" filepath="$PROJECT_DIR$/lesson053_simplecursortreeadapter/lesson053_simplecursortreeadapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson054_using_own_adapter_customisinglist/lesson054_using_own_adapter_customisinglist.iml" filepath="$PROJECT_DIR$/lesson054_using_own_adapter_customisinglist/lesson054_using_own_adapter_customisinglist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson101_contentprovider_creation/lesson101_contentprovider_creation.iml" filepath="$PROJECT_DIR$/lesson101_contentprovider_creation/lesson101_contentprovider_creation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson135_loadermanager/lesson135_loadermanager.iml" filepath="$PROJECT_DIR$/lesson135_loadermanager/lesson135_loadermanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson136_cursorloader/lesson136_cursorloader.iml" filepath="$PROJECT_DIR$/lesson136_cursorloader/lesson136_cursorloader.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson141_drawing_accesstocanvas/lesson141_drawing_accesstocanvas.iml" filepath="$PROJECT_DIR$/lesson141_drawing_accesstocanvas/lesson141_drawing_accesstocanvas.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson144_drawing_matrix/lesson144_drawing_matrix.iml" filepath="$PROJECT_DIR$/lesson144_drawing_matrix/lesson144_drawing_matrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson157_drawing_bitmap_bitmapfactory_iotocanvas/lesson157_drawing_bitmap_bitmapfactory_iotocanvas.iml" filepath="$PROJECT_DIR$/lesson157_drawing_bitmap_bitmapfactory_iotocanvas/lesson157_drawing_bitmap_bitmapfactory_iotocanvas.iml" />

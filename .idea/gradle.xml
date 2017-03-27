@@ -62,6 +62,9 @@
             <option value="$PROJECT_DIR$/lesson051_simpleadapter_add_remove" />
             <option value="$PROJECT_DIR$/lesson053_simplecursortreeadapter" />
             <option value="$PROJECT_DIR$/lesson054_using_own_adapter_customisinglist" />
+            <option value="$PROJECT_DIR$/lesson101_contentprovider_creation" />
+            <option value="$PROJECT_DIR$/lesson135_loadermanager" />
+            <option value="$PROJECT_DIR$/lesson136_cursorloader" />
             <option value="$PROJECT_DIR$/lesson141_drawing_accesstocanvas" />
             <option value="$PROJECT_DIR$/lesson144_drawing_matrix" />
             <option value="$PROJECT_DIR$/lesson157_drawing_bitmap_bitmapfactory_iotocanvas" />
