@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lesson051_simpleadapter_add_remove_h</string>
+    <string name="delete">Delete</string>
+    <string name="add">Add</string>
+</resources>

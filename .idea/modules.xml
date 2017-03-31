@@ -4,68 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/StartAndroid.iml" filepath="$PROJECT_DIR$/StartAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson003/lesson003.iml" filepath="$PROJECT_DIR$/lesson003/lesson003.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson004/lesson004.iml" filepath="$PROJECT_DIR$/lesson004/lesson004.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson005/lesson005.iml" filepath="$PROJECT_DIR$/lesson005/lesson005.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson005_homework/lesson005_homework.iml" filepath="$PROJECT_DIR$/lesson005_homework/lesson005_homework.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson006_homework/lesson006_homework.iml" filepath="$PROJECT_DIR$/lesson006_homework/lesson006_homework.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson006_layouts/lesson006_layouts.iml" filepath="$PROJECT_DIR$/lesson006_layouts/lesson006_layouts.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson007_layout_settings_for_view_elements/lesson007_layout_settings_for_view_elements.iml" filepath="$PROJECT_DIR$/lesson007_layout_settings_for_view_elements/lesson007_layout_settings_for_view_elements.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson008_homework/lesson008_homework.iml" filepath="$PROJECT_DIR$/lesson008_homework/lesson008_homework.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson008_working_with_code/lesson008_working_with_code.iml" filepath="$PROJECT_DIR$/lesson008_working_with_code/lesson008_working_with_code.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson009_button_events/lesson009_button_events.iml" filepath="$PROJECT_DIR$/lesson009_button_events/lesson009_button_events.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson010_optimize_button_events/lesson010_optimize_button_events.iml" filepath="$PROJECT_DIR$/lesson010_optimize_button_events/lesson010_optimize_button_events.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson011_res_values/lesson011_res_values.iml" filepath="$PROJECT_DIR$/lesson011_res_values/lesson011_res_values.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson012_logs_popups/lesson012_logs_popups.iml" filepath="$PROJECT_DIR$/lesson012_logs_popups/lesson012_logs_popups.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson013_homework/lesson013_homework.iml" filepath="$PROJECT_DIR$/lesson013_homework/lesson013_homework.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson013_simple_menu/lesson013_simple_menu.iml" filepath="$PROJECT_DIR$/lesson013_simple_menu/lesson013_simple_menu.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson014_homework/lesson014_homework.iml" filepath="$PROJECT_DIR$/lesson014_homework/lesson014_homework.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson014_menu_groups_order_menuinflator_xmlmenu/lesson014_menu_groups_order_menuinflator_xmlmenu.iml" filepath="$PROJECT_DIR$/lesson014_menu_groups_order_menuinflator_xmlmenu/lesson014_menu_groups_order_menuinflator_xmlmenu.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson015_contextmenu/lesson015_contextmenu.iml" filepath="$PROJECT_DIR$/lesson015_contextmenu/lesson015_contextmenu.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson016_layoutparams/lesson016_layoutparams.iml" filepath="$PROJECT_DIR$/lesson016_layoutparams/lesson016_layoutparams.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson017_create_views_in_runtime/lesson017_create_views_in_runtime.iml" filepath="$PROJECT_DIR$/lesson017_create_views_in_runtime/lesson017_create_views_in_runtime.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson018_change_layoutparams_in_runtime/lesson018_change_layoutparams_in_runtime.iml" filepath="$PROJECT_DIR$/lesson018_change_layoutparams_in_runtime/lesson018_change_layoutparams_in_runtime.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson019_calculator/lesson019_calculator.iml" filepath="$PROJECT_DIR$/lesson019_calculator/lesson019_calculator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson020_animation/lesson020_animation.iml" filepath="$PROJECT_DIR$/lesson020_animation/lesson020_animation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson021_secondactivity/lesson021_secondactivity.iml" filepath="$PROJECT_DIR$/lesson021_secondactivity/lesson021_secondactivity.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson023_activity_lifecycle/lesson023_activity_lifecycle.iml" filepath="$PROJECT_DIR$/lesson023_activity_lifecycle/lesson023_activity_lifecycle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson024_activity_lifecycle_2_activities/lesson024_activity_lifecycle_2_activities.iml" filepath="$PROJECT_DIR$/lesson024_activity_lifecycle_2_activities/lesson024_activity_lifecycle_2_activities.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson026_intent_filter/lesson026_intent_filter.iml" filepath="$PROJECT_DIR$/lesson026_intent_filter/lesson026_intent_filter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson027_action_from_intent/lesson027_action_from_intent.iml" filepath="$PROJECT_DIR$/lesson027_action_from_intent/lesson027_action_from_intent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson028_extras_send_data_withintent/lesson028_extras_send_data_withintent.iml" filepath="$PROJECT_DIR$/lesson028_extras_send_data_withintent/lesson028_extras_send_data_withintent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson029_call_activity_and_get_result_startactivityforresult/lesson029_call_activity_and_get_result_startactivityforresult.iml" filepath="$PROJECT_DIR$/lesson029_call_activity_and_get_result_startactivityforresult/lesson029_call_activity_and_get_result_startactivityforresult.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson030_onactivityresult_requestcode_resultcode/lesson030_onactivityresult_requestcode_resultcode.iml" filepath="$PROJECT_DIR$/lesson030_onactivityresult_requestcode_resultcode/lesson030_onactivityresult_requestcode_resultcode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson031_intent-data_uri_call_system_app/lesson031_intent-data_uri_call_system_app.iml" filepath="$PROJECT_DIR$/lesson031_intent-data_uri_call_system_app/lesson031_intent-data_uri_call_system_app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson032_simple_browser/lesson032_simple_browser.iml" filepath="$PROJECT_DIR$/lesson032_simple_browser/lesson032_simple_browser.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson033_preferences_storedata/lesson033_preferences_storedata.iml" filepath="$PROJECT_DIR$/lesson033_preferences_storedata/lesson033_preferences_storedata.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson034-035_sqlite/lesson034-035_sqlite.iml" filepath="$PROJECT_DIR$/lesson034-035_sqlite/lesson034-035_sqlite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson036_sqlite_query_condition_sorting_grouping/lesson036_sqlite_query_condition_sorting_grouping.iml" filepath="$PROJECT_DIR$/lesson036_sqlite_query_condition_sorting_grouping/lesson036_sqlite_query_condition_sorting_grouping.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson037_queryfromlinkeddb_innerjoin_rawquery/lesson037_queryfromlinkeddb_innerjoin_rawquery.iml" filepath="$PROJECT_DIR$/lesson037_queryfromlinkeddb_innerjoin_rawquery/lesson037_queryfromlinkeddb_innerjoin_rawquery.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson038_sqltransaction/lesson038_sqltransaction.iml" filepath="$PROJECT_DIR$/lesson038_sqltransaction/lesson038_sqltransaction.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson039_onupgrade_renewsqlite/lesson039_onupgrade_renewsqlite.iml" filepath="$PROJECT_DIR$/lesson039_onupgrade_renewsqlite/lesson039_onupgrade_renewsqlite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson040_layoutinflater/lesson040_layoutinflater.iml" filepath="$PROJECT_DIR$/lesson040_layoutinflater/lesson040_layoutinflater.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson041_layoutinflater_list/lesson041_layoutinflater_list.iml" filepath="$PROJECT_DIR$/lesson041_layoutinflater_list/lesson041_layoutinflater_list.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson042_listview/lesson042_listview.iml" filepath="$PROJECT_DIR$/lesson042_listview/lesson042_listview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson043_simple_and_multiple_choice_in_listview/lesson043_simple_and_multiple_choice_in_listview.iml" filepath="$PROJECT_DIR$/lesson043_simple_and_multiple_choice_in_listview/lesson043_simple_and_multiple_choice_in_listview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson044_listview_events/lesson044_listview_events.iml" filepath="$PROJECT_DIR$/lesson044_listview_events/lesson044_listview_events.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson045_expandablelistview/lesson045_expandablelistview.iml" filepath="$PROJECT_DIR$/lesson045_expandablelistview/lesson045_expandablelistview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson046_expandablelistview_events/lesson046_expandablelistview_events.iml" filepath="$PROJECT_DIR$/lesson046_expandablelistview_events/lesson046_expandablelistview_events.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson048_simpleadapter/lesson048_simpleadapter.iml" filepath="$PROJECT_DIR$/lesson048_simpleadapter/lesson048_simpleadapter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson049_simpleadapter_settextview_setviewimage/lesson049_simpleadapter_settextview_setviewimage.iml" filepath="$PROJECT_DIR$/lesson049_simpleadapter_settextview_setviewimage/lesson049_simpleadapter_settextview_setviewimage.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson050_simpleadapter_viewbinder/lesson050_simpleadapter_viewbinder.iml" filepath="$PROJECT_DIR$/lesson050_simpleadapter_viewbinder/lesson050_simpleadapter_viewbinder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson051_simpleadapter_add_remove/lesson051_simpleadapter_add_remove.iml" filepath="$PROJECT_DIR$/lesson051_simpleadapter_add_remove/lesson051_simpleadapter_add_remove.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson053_simplecursortreeadapter/lesson053_simplecursortreeadapter.iml" filepath="$PROJECT_DIR$/lesson053_simplecursortreeadapter/lesson053_simplecursortreeadapter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson054_using_own_adapter_customisinglist/lesson054_using_own_adapter_customisinglist.iml" filepath="$PROJECT_DIR$/lesson054_using_own_adapter_customisinglist/lesson054_using_own_adapter_customisinglist.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson101_contentprovider_creation/lesson101_contentprovider_creation.iml" filepath="$PROJECT_DIR$/lesson101_contentprovider_creation/lesson101_contentprovider_creation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson135_loadermanager/lesson135_loadermanager.iml" filepath="$PROJECT_DIR$/lesson135_loadermanager/lesson135_loadermanager.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson136_cursorloader/lesson136_cursorloader.iml" filepath="$PROJECT_DIR$/lesson136_cursorloader/lesson136_cursorloader.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson141_drawing_accesstocanvas/lesson141_drawing_accesstocanvas.iml" filepath="$PROJECT_DIR$/lesson141_drawing_accesstocanvas/lesson141_drawing_accesstocanvas.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson144_drawing_matrix/lesson144_drawing_matrix.iml" filepath="$PROJECT_DIR$/lesson144_drawing_matrix/lesson144_drawing_matrix.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson157_drawing_bitmap_bitmapfactory_iotocanvas/lesson157_drawing_bitmap_bitmapfactory_iotocanvas.iml" filepath="$PROJECT_DIR$/lesson157_drawing_bitmap_bitmapfactory_iotocanvas/lesson157_drawing_bitmap_bitmapfactory_iotocanvas.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson158_drawing_bitmap_createbitmap_density_mutable/lesson158_drawing_bitmap_createbitmap_density_mutable.iml" filepath="$PROJECT_DIR$/lesson158_drawing_bitmap_createbitmap_density_mutable/lesson158_drawing_bitmap_createbitmap_density_mutable.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson159_drawing_bitmap_bitmapfactory.options_save/lesson159_drawing_bitmap_bitmapfactory.options_save.iml" filepath="$PROJECT_DIR$/lesson159_drawing_bitmap_bitmapfactory.options_save/lesson159_drawing_bitmap_bitmapfactory.options_save.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson160_bitmap_bigsize/lesson160_bitmap_bigsize.iml" filepath="$PROJECT_DIR$/lesson160_bitmap_bigsize/lesson160_bitmap_bigsize.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lesson161_drawing_bitmap_memorycache_picasso/lesson161_drawing_bitmap_memorycache_picasso.iml" filepath="$PROJECT_DIR$/lesson161_drawing_bitmap_memorycache_picasso/lesson161_drawing_bitmap_memorycache_picasso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson101_contentprovider_creation_h/lesson101_contentprovider_creation_h.iml" filepath="$PROJECT_DIR$/lesson101_contentprovider_creation_h/lesson101_contentprovider_creation_h.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson136_cursorloader_h/lesson136_cursorloader_h.iml" filepath="$PROJECT_DIR$/lesson136_cursorloader_h/lesson136_cursorloader_h.iml" />
     </modules>
   </component>
 </project>

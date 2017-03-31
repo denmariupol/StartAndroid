@@ -42,10 +42,10 @@ public class MainActivity extends AppCompatActivity {
             data.add(m);
         }
         // массив имен атрибутов, из которых будут читаться данные
-        String[] from = { ATTRIBUTE_NAME_TEXT, ATTRIBUTE_NAME_PB,
-                ATTRIBUTE_NAME_LL };
+        String[] from = { ATTRIBUTE_NAME_TEXT, /*ATTRIBUTE_NAME_PB,
+                ATTRIBUTE_NAME_LL */};
         // массив ID View-компонентов, в которые будут вставлять данные
-        int[] to = { R.id.tvLoad, R.id.pbLoad, R.id.llLoad };
+        int[] to = { R.id.tvLoad,/* R.id.pbLoad, R.id.llLoad*/ };
 
         // создаем адаптер
         SimpleAdapter adapter = new SimpleAdapter(this,data,R.layout.item,from,to);

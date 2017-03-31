@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lesson136_cursorloader_h</string>
+    <string name="deleteButton">Del</string>
+    <string name="addButton">Add</string>
+</resources>
