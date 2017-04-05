@@ -12,6 +12,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <provider
+            android:authorities="com.example.lesson101_contentprovider_creation_h"
+            android:name="com.example.lesson101_contentprovider_creation_h.MyProvider"/>
+
     </application>
 
 </manifest>

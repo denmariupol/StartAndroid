@@ -6,16 +6,12 @@ import android.content.Context;
 import android.content.Loader;
 import android.database.Cursor;
 import android.database.DataSetObserver;
-import android.database.sqlite.SQLiteDatabase;
-import android.database.sqlite.SQLiteOpenHelper;
 import android.graphics.Bitmap;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.AdapterView;
 import android.widget.Button;
-import android.widget.CursorAdapter;
 import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.SimpleCursorAdapter;
@@ -155,7 +151,6 @@ public class MainActivity extends Activity implements LoaderCallbacks<Cursor> {
         @Override
         public void bindView(final View view, Context context, Cursor cursor) {
             final View v = view;
-
             String title = cursor.getString(colName);
 
             TextView textView = (TextView)view.findViewById(R.id.textView);

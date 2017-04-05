@@ -34,6 +34,7 @@ public class DataLoader extends AsyncTaskLoader<Cursor> {
     }
 
 
+
     @Override
     public Cursor loadInBackground() {
         HttpURLConnection connection = null;

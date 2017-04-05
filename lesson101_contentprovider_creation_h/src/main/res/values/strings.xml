@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">lesson101_contentprovider_creation_h</string>
+    <string name="insert">INSERT</string>
+    <string name="update">UPDATE</string>
+    <string name="read">READ</string>
+    <string name="delete">DELETE</string>
+
+    <string name="insertRecButton">Insert</string>
+    <string name="updateRecButton">Update</string>
+    <string name="insertTextFieldHint">Type something here</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
